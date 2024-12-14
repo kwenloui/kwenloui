@@ -2,11 +2,11 @@
 ~~да не клоунлоли, не квенлуи~~
 ---
 Я начинающий программист, вот мой стек:
-bash
-python
-java script
-HTML 5
-CSS
+-bash
+-python
+-java script
+-HTML 5
+-CSS
 
 <!--
 **kwenloui/kwenloui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
